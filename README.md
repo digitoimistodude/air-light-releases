@@ -12,7 +12,7 @@ Make sure `zip` package is installed on macOS.
 
 1. Run `sh air_move_out.sh` to test if [Theme Check](https://fi.wordpress.org/plugins/theme-check/) passes the tests
 2. Run `sh air_pack.sh` after all tests have passed
-3. Upload air-light.zip to Theme Directory (needs access rights in wordpress.org)
+3. [Upload](https://wordpress.org/themes/upload/) air-light.zip to Theme Directory (needs access rights in wordpress.org)
 4. Run `sh air_move_in.sh` to move back the dev-files to continue developing air-light further.
 
 Have fun!
