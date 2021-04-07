@@ -1,3 +1,6 @@
+| :bangbang: | **This repository is no longer maintained. Everything has been igrated to be a part of [air-light dev theme](https://github.com/digitoimistodude/air-light).**  |
+|:------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 # Air-light theme release automation for WordPress.org
 
 This repository contains the automation scripts for testing and releasing air-light in [WordPress.org Theme Directory](https://wordpress.org/themes/air-light/).
